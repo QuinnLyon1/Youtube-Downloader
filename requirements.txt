@@ -1,0 +1,4 @@
+yt-dlp
+psutil
+# tkinter is included with Python on most systems
+# install ffmpeg separately from https://ffmpeg.org/
