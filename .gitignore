@@ -217,3 +217,14 @@ downloads/
 dist/
 build/
 *.spec
+
+.venv/
+downloads/
+*.mp4
+*.mkv
+*.webm
+*.m4a
+dist/
+build/
+*.spec
+
